@@ -49,7 +49,7 @@ This project builds a **sample SQL database** and answers **13 real-world busine
 
 ## 🖇️ Entity-Relationship (ER) Diagram
 
-![ER Diagram](blinkit_vs_zepto_ERD.png)
+![ER Diagram](Blinkit_vs_zepto_project_ER_diagram.png)
 
 ---
 
